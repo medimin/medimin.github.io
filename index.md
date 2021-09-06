@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## 김민서 이력서
 
-You can use the [editor on GitHub](https://github.com/medimin/medimin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 소속
+이화여자대학교
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
