@@ -2,13 +2,11 @@
 
 안녕하세요!
 
-### 소속
-이화여자대학교 화학나노과학전공
+### 학교
+이화여자대학교 화학나노과학과 재학중
 
 
-```markdown
-Syntax highlighted code block
-
+<img src="https://user-images.githubusercontent.com/90170603/133096583-0fd69d60-6b9b-4301-bd97-046eb03a2037.png" width="300"/>
 # Header 1
 ## Header 2
 ### Header 3
